@@ -1,0 +1,68 @@
+.bstyle
+{
+    background-color: #dddddd;
+}
+.box{
+    text-align: center;
+}
+.img{
+    margin: 0;
+}
+.box_text
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+}
+.text1 {
+    color: rgb(31, 31, 31);
+    padding-left: 50px;
+    text-align: left;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.text2 {
+    color: rgb(31, 31, 31);
+    font-size: 14px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bot_text
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(231, 231, 231);
+}
+.h1{
+    text-align: left;
+    font-size: 10px;
+    font-weight: normal;
+    color: rgb(104, 104, 104);
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+}
+
+.iconify{
+    padding-left: 50px;
+    text-align: left;
+    font-size: 10px;
+    color: rgb(104, 104, 104);
+    display: inline-block;
+}
+.iconify2{
+    text-align: left;
+    font-size: 10px;
+    color: rgb(104, 104, 104);
+    display: inline-block;
+}
