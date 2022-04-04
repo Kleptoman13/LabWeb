@@ -1,8 +1,8 @@
-.bstyle
+.body
 {
     background-color: #dddddd;
 }
-.box{
+.box_img{
     text-align: center;
 }
 .img{
@@ -18,7 +18,7 @@
     padding-bottom: 10px;
     background-color: white;
 }
-.text1 {
+.title {
     color: rgb(31, 31, 31);
     padding-left: 50px;
     text-align: left;
@@ -26,7 +26,7 @@
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
 }
-.text2 {
+.text {
     color: rgb(31, 31, 31);
     font-size: 14px;
     padding-left: 50px;
@@ -35,7 +35,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.bot_text
+.bottom_box
 {
     margin-left: auto;
     margin-right: auto;
@@ -60,9 +60,7 @@
     color: rgb(104, 104, 104);
     display: inline-block;
 }
-.iconify2{
-    text-align: left;
-    font-size: 10px;
-    color: rgb(104, 104, 104);
-    display: inline-block;
+
+.padding{
+    padding-left: 20px;
 }
